@@ -31,5 +31,4 @@ The dataset used includes coffee quality metrics such as acidity, aroma, balance
 Feel free to fork the repository, raise issues, or suggest improvements!
 
 ## 📥 Download the PBIX File
-[Download Power BI Dashboard (.pbix)]
-Download Power BI Dashboard (.pbix)
+[Download Power BI Dashboard (.pbix)](https://github.com/Karannkoli/Coffee-Quality-Analysis/blob/main/Coffee%20Quality%20Analysis%20Dashboard.pbix)
