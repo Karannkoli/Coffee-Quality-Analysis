@@ -17,7 +17,7 @@ Coffee Quality Dataset for analysis
 DAX & Power Query for data transformations
 
 ## 📷 Dashboard Preview
-![Power BI Dashboard]
+![Power BI Dashboard](https://github.com/Karannkoli/Coffee-Quality-Analysis/blob/main/Coffee_Quality_Dashboard.jpg)
 
 ## 🚀 How to Use
 Download the .pbix file.
