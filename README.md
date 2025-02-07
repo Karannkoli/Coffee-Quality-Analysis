@@ -31,7 +31,10 @@ This Power BI dashboard provides insights into coffee quality across different r
 1️⃣ Download the .pbix file.
 2️⃣ Open it in Power BI Desktop.
 3️⃣ Interact with filters and visuals to explore insights.
-
+1️⃣ Download and open the `.pbix` file in **Power BI Desktop**  
+2️⃣ Interact with slicers to filter data  
+3️⃣ Click the **toggle button** to show/hide the detailed table  
+4️⃣ Explore trends and insights from dynamic charts
 ---
 
 ## 📂 Dataset
