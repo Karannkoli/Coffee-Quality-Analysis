@@ -6,19 +6,19 @@ This Power BI dashboard provides insights into coffee quality across different r
 ---
 
 ## 📌 Key Features
-✔ **Total Coffee Quality Score** – Measures the overall quality rating of different coffee samples.
-✔ **Defects by Country of Origin** – Identifies defect patterns across major coffee-producing regions.
-✔ **Total Cup Points by Variety** – Evaluates the quality of different coffee bean varieties.
-✔ **Processing Method Impact** – Compares coffee quality based on different processing techniques.
-✔ **Geographical Insights** – Displays total cup points by country using an interactive map.
-✔ **Processing Method Distribution** – Visualizes the most commonly used processing techniques.
+✔ **Total Coffee Quality Score** – Measures the overall quality rating of different coffee samples
+✔ **Defects by Country of Origin** – Identifies defect patterns across major coffee-producing regions
+✔ **Total Cup Points by Variety** – Evaluates the quality of different coffee bean varieties
+✔ **Processing Method Impact** – Compares coffee quality based on different processing techniques
+✔ **Geographical Insights** – Displays total cup points by country using an interactive map
+✔ **Processing Method Distribution** – Visualizes the most commonly used processing techniques
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **Power BI** – Data visualization and interactive dashboard creation.
-- **DAX & Power Query** – Data transformation and calculations.
-- **Coffee Quality Dataset** – Contains coffee attributes from various sources.
+- **Power BI** – Data visualization and interactive dashboard creation
+- **DAX & Power Query** – Data transformation and calculations
+- **Coffee Quality Dataset** – Contains coffee attributes from various sources
 
 ---
 
@@ -28,13 +28,10 @@ This Power BI dashboard provides insights into coffee quality across different r
 ---
 
 ## 🚀 How to Use
-1️⃣ Download the .pbix file.
-2️⃣ Open it in Power BI Desktop.
-3️⃣ Interact with filters and visuals to explore insights.
-1️⃣ Download and open the `.pbix` file in **Power BI Desktop**  
-2️⃣ Interact with slicers to filter data  
-3️⃣ Click the **toggle button** to show/hide the detailed table  
-4️⃣ Explore trends and insights from dynamic charts
+1️⃣ Download the .pbix file
+2️⃣ Open it in Power BI Desktop
+3️⃣ Interact with filters and visuals to explore insights
+
 ---
 
 ## 📂 Dataset
